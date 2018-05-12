@@ -1,0 +1,26 @@
+_repo: John-Brown-Soldier-of-FortuneA-Critique_41582
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilson, Hill Peebles
+    birthdate: 1840
+    gutenberg_agent_id: '41246'
+    url: http://www.gutenberg.org/2009/agents/41246
+description: ''
+gutenberg_issued: '2012-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41582'
+  lccn: '19004974'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Brown, John, 1800-1859'
+title: 'John Brown, Soldier of Fortune: A Critique'
+url: http://www.gutenberg.org/ebooks/41582
